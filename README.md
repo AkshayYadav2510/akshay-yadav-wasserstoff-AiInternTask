@@ -1,6 +1,11 @@
 # 🧠 AI Intern Task – Document Research & Theme Identification Chatbot
 This project was built as part of an AI Internship Task at Wasserstoff Innovation & Learning Labs.
 
+# 🖥 Try the full app here:  
+👉 [Click to launch chatbot](https://huggingface.co/spaces/akshayyadav2510/wasserstoff-AiInternTask)
+
+---
+
 The chatbot enables users to upload PDFs or scanned documents, ask natural language questions, and receive smart, context-aware answers along with theme-based analysis — powered by GenAI models and vector search.
 
 # 🚀 Features
